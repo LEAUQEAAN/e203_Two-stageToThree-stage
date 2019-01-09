@@ -54,7 +54,7 @@ Building Testbench
 To enable VCD dump into `dump.vcd`. Note that the dumping support is compiled
 into the testbench binary and hence you need to rebuild to turn it on and off.
 
-make build cflags='-DVCDTRACE=1' 
+    make build cflags='-DVCDTRACE=1' 
  
 
 Running
