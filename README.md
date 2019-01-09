@@ -1,7 +1,7 @@
 ## e203_Two-stageTo Three-stage
 蜂鸟E200开源处理器核心
 
-! [Image text](https://github.com/LEAUQEAAN/e203_Two-stageToThree-stage/blob/master/2_3.png)
+![Image text](https://github.com/LEAUQEAAN/e203_Two-stageToThree-stage/blob/master/2_3.png)
 
 ![Image text](https://github.com/LEAUQEAAN/e203_Two-stageToThree-stage/blob/master/2_3_pro.png)
 
